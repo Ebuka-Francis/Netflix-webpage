@@ -28,7 +28,7 @@ select {
 }
 body {
   width: 100%;
-  font-family: "Inter", sans-serif;
+  font-family: "Roboto";
   height: 100%;
 
   display: flex;
